@@ -1,6 +1,7 @@
+
 /*
  * File: 101-quote.c
- * Auth: Teddy
+ * Author: Jethro Mushilingwa
  */
 
 #include <unistd.h>

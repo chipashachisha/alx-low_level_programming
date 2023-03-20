@@ -1,6 +1,7 @@
+
 /*
  * File: 5-printf.c
- * Auth: teddy
+ * Author: Jethro Mushilingwa
  */
 
 #include <stdio.h>

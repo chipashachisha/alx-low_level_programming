@@ -1,6 +1,6 @@
 /*
  * File: 6-size.c
- * Auth: Teddy
+ * Author: Jethro Mushilingwa
  */
 
 #include <stdio.h>
